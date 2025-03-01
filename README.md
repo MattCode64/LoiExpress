@@ -1,4 +1,4 @@
-# **🔍 JurisGPT – Votre Expert en Droit Français Assisté par IA 🇫🇷**  
+# **🔍 LoiExpress – Votre Expert en Droit Français Assisté par IA 🇫🇷**  
 
 **Description courte :**  
 LoiExpress est un assistant juridique intelligent basé sur l’IA, spécialisé dans l’analyse et l’explication des lois françaises (Code du Travail, Code Pénal, etc.). Grâce à une recherche augmentée par l’IA (**RAG**), il fournit des réponses précises et contextualisées à vos questions juridiques.  
